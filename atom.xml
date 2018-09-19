@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-18T17:57:10.815Z</updated>
+  <updated>2018-09-19T13:33:28.185Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/09/19/macOS%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87/"/>
+    <id>http://yoursite.com/2018/09/19/macOS装机必备/</id>
+    <published>2018-09-19T11:31:05.946Z</published>
+    <updated>2018-09-19T13:33:28.185Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: macOS装机必备<br>tags: </p><ul><li>macOS </li><li>工具<br>categories: </li><li>资源和工具</li></ul><hr><h2 id="macOS-设置指南"><a href="#macOS-设置指南" class="headerlink" title="macOS 设置指南"></a><a href="https://sourabhbajaj.com/mac-setup/" target="_blank" rel="noopener">macOS 设置指南</a></h2><h3 id="Xcode"><a href="#Xcode" class="headerlink" title="Xcode"></a><a href="">Xcode</a></h3><blockquote></blockquote><h3 id="Homebrew"><a href="#Homebrew" class="headerlink" title="Homebrew"></a><a href="https://brew.sh/" target="_blank" rel="noopener">Homebrew</a></h3><blockquote><p>macOS 缺失的软件包的管理器 <br></p></blockquote><p>安装 Homebrew，将命令粘贴到终端</p><pre><code>/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</code></pre><h3 id="FFmpeg"><a href="#FFmpeg" class="headerlink" title="FFmpeg"></a><a href="https://www.ffmpeg.org/" target="_blank" rel="noopener">FFmpeg</a></h3><blockquote><p>一个完整的跨平台解决方案，用于录制，转换和流式传输音频和视频。 <br></p></blockquote><p>安装 FFmpeg，将命令粘贴到终端<br><br>FFmpeg 详细使用看官方文档, 很强大的一个库</p><pre><code>brew install ffmpeg</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title: macOS装机必备&lt;br&gt;tags: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;macOS &lt;/li&gt;
+&lt;li&gt;工具&lt;br&gt;categories: &lt;/li&gt;
+&lt;li&gt;资源和工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;macOS-设置指南&quot;&gt;&lt;a hre
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Github and Hexo 建立个人博客网站</title>
